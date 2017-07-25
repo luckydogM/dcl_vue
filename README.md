@@ -1,1 +1,1 @@
-# dcl_vue
+该项目是用vue框架搭建的，功能与happyLunch_ionic项目功能一样，是happyLunch_ionic的重构
